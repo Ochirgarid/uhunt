@@ -14,6 +14,6 @@ if __name__ == "__main__":
             if v < 0:
                 break
         else:
-            print("N")
+            print("S")
             continue
-        print("S")
+        print("N")
